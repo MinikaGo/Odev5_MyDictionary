@@ -1,0 +1,16 @@
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\bin\Debug\net5.0\Dictionary1.exe
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\bin\Debug\net5.0\Dictionary1.deps.json
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\bin\Debug\net5.0\Dictionary1.runtimeconfig.json
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\bin\Debug\net5.0\Dictionary1.runtimeconfig.dev.json
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\bin\Debug\net5.0\Dictionary1.dll
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\bin\Debug\net5.0\ref\Dictionary1.dll
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\bin\Debug\net5.0\Dictionary1.pdb
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\Dictionary1.csproj.AssemblyReference.cache
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\Dictionary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\Dictionary1.AssemblyInfoInputs.cache
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\Dictionary1.AssemblyInfo.cs
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\Dictionary1.csproj.CoreCompileInputs.cache
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\Dictionary1.dll
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\ref\Dictionary1.dll
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\Dictionary1.pdb
+C:\Users\umit.sinanoglu\source\repos\Metotlar\Dictionary1\obj\Debug\net5.0\Dictionary1.genruntimeconfig.cache
